@@ -1,0 +1,7 @@
+.footer {
+  height: 100%;
+  display: flex;
+  position: relative;
+  align-items: end;
+  bottom: 0;
+}

@@ -1,0 +1,25 @@
+.site-layout .site-layout-background {
+  background: #fff;
+}
+#components-layout-demo-fixed-sider .logo {
+  height: 32px;
+  margin: 16px;
+  background: rgba(255, 255, 255, 0.2);
+}
+.site-layout .site-layout-background {
+  background: #fff;
+}
+.filler {
+  height: 100px;
+  width: 100%;
+}
+.sider-antd {
+  width: 300px !important;
+  max-width: 300px !important;
+  min-width: 300px !important;
+  flex: 0 0 300px !important;
+  background-color: white;
+}
+.ant-menu-title-content {
+  font-size: 11px;
+}
