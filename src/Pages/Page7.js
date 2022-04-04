@@ -4,7 +4,7 @@ import PDFhandler from "../Components/PDFhandler";
 const Page7 = () => {
   return (
     <div>
-      <PDFhandler pdf="/TransmissionLubricants.pdf" heigh={860} />
+      <PDFhandler pdf="/TransmissionLubricants.pdf" />
     </div>
   );
 };

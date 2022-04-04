@@ -3,7 +3,7 @@ import PDFhandler from "../Components/PDFhandler";
 const Page1 = () => {
   return (
     <div>
-      <PDFhandler pdf="/test.pdf" height={800} />
+      <PDFhandler pdf="/test.pdf"  />
     </div>
   );
 };

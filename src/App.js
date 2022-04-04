@@ -56,9 +56,9 @@ function App() {
                 <Route path="*" exact></Route>
               </Switch>
             </Content>
-            <Footer style={{ padding: "0px", height: "48px" }}>
+            {/* <Footer style={{ padding: "0px", height: "48px" }}>
               <FooterPage />
-            </Footer>
+            </Footer> */}
           </Layout>
         </Layout>
       </Router>

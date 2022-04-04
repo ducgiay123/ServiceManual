@@ -25,7 +25,7 @@ function PDFhandler(props) {
   return (
     <div className="App-header">
       <Document file={props.pdf} onLoadSuccess={onDocumentLoadSuccess}>
-        <Page height={props.height} pageNumber={pageNumber} />
+        <Page pageNumber={pageNumber} />
       </Document>
       <h4>
         Page {pageNumber} of {numPages}

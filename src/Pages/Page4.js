@@ -4,7 +4,7 @@ const Page4 = () => {
   return (
     <div>
       {" "}
-      <PDFhandler pdf="/AcceleratorPedal.pdf" height={860} />
+      <PDFhandler pdf="/AcceleratorPedal.pdf"/>
     </div>
   );
 };
